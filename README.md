@@ -18,4 +18,5 @@
 ## Collaborators
 - Jakub Dostál
 - Tadeáš Fryčák
+- Jiří Fizek
 
